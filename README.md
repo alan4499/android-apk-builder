@@ -124,6 +124,8 @@ sudo apt install git
 3. You should see the workflow running automatically
 4. Wait for it to complete (usually 3-5 minutes)
 
+If GitHub Actions was enabled after the latest code was pushed and no build starts, open the **Android Build** workflow in the Actions tab, click **Run workflow**, select the `main` branch, and click **Run workflow** again.
+
 ## 🔧 How to Download Your APK
 
 ### Method 1: From GitHub Actions (Recommended)
